@@ -1,4 +1,4 @@
-package shammiJhaAssignments;
+package javaProject.shammiJhaAssignments;
 
 class Demo
 {
@@ -16,6 +16,6 @@ public class Test
         Demo ob = new Demo();
         ob.var=9;
         ob.func();
-
+        ob.func();
     }
 }
