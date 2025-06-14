@@ -10,7 +10,7 @@ public class Locators {
 
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("");
+		driver.get("www.google.com");
 
 	}
 
