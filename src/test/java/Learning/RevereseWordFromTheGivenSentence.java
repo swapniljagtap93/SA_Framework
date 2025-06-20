@@ -1,4 +1,4 @@
-package Learning
+package Learning;
 
 // Package: src/test/java
 public class RevereseWordFromTheGivenSentence {

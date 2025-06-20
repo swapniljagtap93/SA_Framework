@@ -1,4 +1,4 @@
-package Learning
+package Learning;
 
 public class StringReversed {
     public static void main(String[] args) {
